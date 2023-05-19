@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "version": "0.0.1",
+  "description": "Testing How To Use Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangKetikCoding/howtoUsefirebase-wm.git"
+  },
+  "keywords": [
+    "Firebase",
+    "Gcloud",
+    "BackEnd",
+    "DevOps"
+  ],
+  "author": "kangketikcoding@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangKetikCoding/howtoUsefirebase-wm/issues"
+  },
+  "homepage": "https://github.com/KangKetikCoding/howtoUsefirebase-wm#readme"
+}
